@@ -7,7 +7,7 @@
     "react-component"
   ],
   "license": "MIT",
-  "author": "Your Name <email@example.com>",
+  "author": "Thomas Rich <trich1230@gmail.com>",
   "main": "./src",
   "directories": {
     "bin": "./build",
