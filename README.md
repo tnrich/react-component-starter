@@ -50,10 +50,6 @@ $ npm test
  * [The Future of React](https://github.com/reactjs/react-future)
  * [Learn ES6](https://babeljs.io/docs/learn-es6/), [ES6 Features](https://github.com/lukehoban/es6features#readme)
 
-### Support
-
-Have feedback, feature request or need help? Contact me on [codementor.io/koistya](https://www.codementor.io/koistya).
-
 ### Copyright
 
-**MIT** (c) Konstantin Tarkus ([@koistya](https://twitter.com/koistya)), tnrich LLC
+**MIT**
