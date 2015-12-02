@@ -1,7 +1,3 @@
-/**
- * Copyright (c) Your Company. All rights reserved.
- */
-
 import React from 'react'; // eslint-disable-line no-unused-vars
 import './MyComponent.less';
 
